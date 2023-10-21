@@ -19,7 +19,7 @@ This project is a Potato Disease Classification Model with a React.js frontend f
 
 Potato cultivation is essential for food security, but diseases can significantly reduce crop yields. This Potato Disease Classification Model helps farmers and researchers identify diseases in potato plants by analyzing images of the leaves. The project consists of two main components:
 
-- **Machine Learning Model**: The backend includes a machine learning model trained to classify diseases in potato leaves. It uses a deep learning model, and the training data is not included in this repository.
+- **Machine Learning Model**: The backend includes a machine learning model trained to classify diseases in potato leaves. It uses a deep learning model.
 
 - **React.js Frontend**: The frontend is a user-friendly web application built with React.js. It allows users to upload images of potato leaves and get disease classification results instantly.
 
@@ -36,7 +36,7 @@ To get a local copy of this project up and running, follow these steps.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/potato-disease-classification.git
+   git clone https://github.com/Amourya03/Potato-Disease-Classification.git
 2. Change to the project directory:
    ```bash
    cd potato-disease-classification
